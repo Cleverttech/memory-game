@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
             img:'images/cherry.png'
         }
         
-    ]
+       ]
   
     const grid = document.querySelector('.grid')
 
@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     createBoard()
 
-
+}
 
 
 
