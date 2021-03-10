@@ -1,5 +1,11 @@
 # memory-game
- Written with vanillas JS with the goal of practicing methods like setAttribute, appendChild, querySelector, eventListeners etc. Have fun:)
- Memory Game ==>
+ 
+ Memory Game 
 [See live-demo](https://cleverttech.github.io/memory-game/)
 
+<hr>
+Technologies: <br>
+Vanilla js <br>
+JavaScript <br>
+css <br>
+Html
