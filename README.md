@@ -6,7 +6,8 @@
 <img src="https://github.com/Cleverttech/memory-game/blob/main/images/demo.PNG" alt="demo-Image" margin="auto 0px" width="310" height="220"/>
 
 <hr>
-Technologies: <br>
+###### Technologies: 
+
 Vanilla js <br>
 JavaScript <br>
 css <br>
